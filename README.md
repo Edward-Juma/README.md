@@ -65,8 +65,8 @@ I believe in **consistent learning > fast learning**.
 ---
 
 ## 🤝 Let’s Connect
-- GitHub: https://github.com/your-ejuma670-prog
-- Email: your-ejuma670@gmail.com
+- GitHub: https://github.com/edward-juma
+- Email: ejuma670@gmail.com
 
 ---
 
