@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edward Juma
 
-🎓 Computer Science Diploma Student  
+🎓 Computer Science Diploma Graduate  
 🔐 Aspiring Cybersecurity Engineer  
 💻 Tech enthusiast focused on secure systems & problem-solving  
 📍 Kenya  
