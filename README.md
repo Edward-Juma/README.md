@@ -1,5 +1,5 @@
  # 💫 About Me:
-I'm a passionate Computer Science student with a strong interest in cybersecurity, networking, and software development.<br>I enjoy learning by building projects, experimenting with code, and understanding how systems work — and how to secure them.<br><br>I believe in consistent learning > fast learning.
+I'm a passionate Computer Science Graduate with a strong interest in cybersecurity, networking, and software development.<br>I enjoy learning by building projects, experimenting with code, and understanding how systems work — and how to secure them.<br><br>I believe in consistent learning > fast learning.
 
 
 ## 🌐 Socials:
